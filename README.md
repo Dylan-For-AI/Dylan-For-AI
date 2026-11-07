@@ -239,7 +239,7 @@ I'm always open to discussing AI engineering, autonomous systems, HealthTech sec
 <a href="mailto:dylanrami.pro@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-020617?style=for-the-badge&logo=microsoftoutlook&logoColor=00BFFF" alt="Outlook"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/dylanrami10">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn"/>
 </a>
 
